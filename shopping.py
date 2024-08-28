@@ -1,0 +1,1 @@
+# For each meal included in the meal plan, I want it to compile all the ingredients in a simple list
